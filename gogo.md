@@ -4,6 +4,8 @@
 
 - [Welcome To SystemVerilog Central](http://www.asic-world.com/systemverilog/index.html) : 語法相關
 - [TestBench.in](http://testbench.in) : 語法教學
+- [Asynchronous FIFO with gray code（异步FIFO verilog设计理念）](https://blog.csdn.net/weixin_40038116/article/details/81161300)
+- [Verilog实现FIFO设计（一）之同步8位深度](https://blog.csdn.net/qq_42759162/article/details/105501872)
 
 ## fifo
 
